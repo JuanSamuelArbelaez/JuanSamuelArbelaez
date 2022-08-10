@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan Samuel Arbelaez
-- 🌱 Computer and Systems Student
+- 🌱 Computer and Systems Engineering Student at Universidad del Quindío (Colombia).
 - 📫 Contact info: juansamuelarbelaez@gmail.com
 
 <!---
