@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Samuel Arbelaez.
 - 🌱 Computer and Systems Engineering Student at Universidad del Quindío (Colombia).
-- 🧑🏻‍💻 Full Customer Service (L3) OPI at Interpretia.
+- 🧑🏻‍💻 Medical Service Interpreter (L4) MSI at Interpretia (Jan 2023 - Aug 2023).
 - 📫 Contact info: juansamuelarbelaez@gmail.com
 
 <!---
