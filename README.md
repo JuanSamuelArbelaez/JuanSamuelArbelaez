@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Juan Samuel Arbelaez.</h2>
-<h1 align="left">Computer and Systems Engineering Student</h1>
+<h3 align="left">Computer and Systems Engineering Student</h3>
 
 ###
 
