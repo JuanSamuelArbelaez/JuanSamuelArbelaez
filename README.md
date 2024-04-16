@@ -1,16 +1,10 @@
-- 👋 Hi, I’m Juan Samuel Arbelaez.
-- 🌱 Computer and Systems Engineering Student at Universidad del Quindío (Colombia).
-- 🧑🏻‍💻 Medical Service Interpreter (L4) MSI at Interpretia (Jan 2023 - Aug 2023).
-- 📫 Contact info: juansamuelarbelaez@gmail.com
-
 <h2 align="left">Hi 👋! I'm Juan Samuel Arbelaez.</h2>
 <h1 align="left">Computer and Systems Engineering Student</h1>
 
 ###
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSamuelArbelaez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="400" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSamuelArbelaez&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false" width="600" alt="languages graph"  />
 </div>
 
 ###
