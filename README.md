@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="left" font-size=30p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="icon" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" class="icon" alt="typescript logo"  />
