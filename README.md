@@ -112,7 +112,7 @@
 <style>
     .icon {
       display: inline-block;
-      height: 30px; /* Puedes ajustar la altura según tu preferencia */
+      height: 30; /* Puedes ajustar la altura según tu preferencia */
       width: auto; /* Ancho automático para mantener la proporción */
     }
   </style>
