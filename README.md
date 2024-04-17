@@ -57,6 +57,8 @@
     <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="40" alt="oracle logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   </div>
 </div>
 
@@ -115,8 +117,6 @@
     <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png" height="40" alt="scenebuilder logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   </div>
 </div>
 
