@@ -59,6 +59,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" title="MATLAB" />
+    <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" title="Arduino" />
   </div>
 </div>
 
