@@ -69,7 +69,7 @@
 <div>
   <h3 align="left">My Frameworks</h3>
   <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" title="Angular" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Klh1l7wkoG6PDPb9A5oCHQ.png" height="40" alt="angular logo" title="Angular" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="Bootstrap" />
     <img width="12" />
