@@ -100,6 +100,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="Visual Studio Code" />
     <img width="12" />
+    <img src="https://stackblitz.com/_astro/stackblitz.SuLpN-fk_1wDhhf.webp" height="40" alt="stackblitz logo" title="StackBlitz" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sqldeveloper logo" title="SQL Developer" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo" title="Eclipse" />
