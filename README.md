@@ -116,6 +116,12 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" title="Postman" />
     <img width="12" />
+    <img src="https://assets-global.website-files.com/5f1a8e281bd3433d5faa74f8/636b9b02d0fed9e2252790b2_TestRail_Logo_Square.svg" height="40" alt="testrail logo" title="TestRail" />
+    <img width="12" />
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40" alt="jira logo" title="Jira" />
+    <img width="12" />
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="junit logo" title="J-Unit" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
     <img width="12" />
     <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png" height="40" alt="scenebuilder logo" title="SceneBuilder" />
