@@ -30,8 +30,8 @@
 <div>
   <h2 align="left">My Stats</h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSamuelArbelaez&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=12&theme=catppuccin_mocha&hide_border=false" alt="languages graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanArbelaez&layout=compact&card_width=500&theme=catppuccin_mocha&hide_border=false&langs_count=12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSamuelArbelaez&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=16&theme=catppuccin_mocha&hide_border=false" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanArbelaez&layout=compact&card_width=500&theme=catppuccin_mocha&hide_border=false&langs_count=16">
   </div>
 </div>
 
