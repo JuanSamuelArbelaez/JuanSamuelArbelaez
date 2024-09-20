@@ -5,7 +5,7 @@
   <div align="left">
     <h4>Spanish: Native</h4>
     <h4>English: C1</h4>
-    <h4>German: B1</h4>
+    <h4>German: B2</h4>
   </div>
 </div>
 
