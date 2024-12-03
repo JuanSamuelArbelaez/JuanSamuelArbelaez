@@ -19,14 +19,19 @@
     <h5 align="left">Website: https://www.uniquindio.edu.co/</h5>
   </div>
   <div> 
+    <h3 align="left">BACHELOR ON INFORMATIK- Technische Hochschule Köln</h3>
+    <h6 align="left">01/09/2024 – CURRENT Gummersbach, Alemania</h6>
+    <h5 align="left">Website: th-koeln.de</h5>
+  </div>
+  <div> 
     <h3 align="left">SENIOR GO DEVELOPER - Labora</h3>
-    <h6 align="left">15/01/2024 – CURRENT Buenos Aires, Argentina</h6>
+    <h6 align="left">15/01/2024 – 04/06/2024 Buenos Aires, Argentina</h6>
     <h5 align="left">Website: https://labora.ar/</h5>
   </div>
 </div>
 
 <hr/>
-
+<!--
 <div>
   <h2 align="left">My Stats</h2>
   <div align="center">
@@ -34,7 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanArbelaez&layout=compact&card_width=500&theme=catppuccin_mocha&hide_border=false&langs_count=10">
   </div>
 </div>
-
+-->
 <div>
   <h3 align="left">My Languages</h3>
   <div align="left">
@@ -125,6 +130,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
     <img width="12" />
     <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png" height="40" alt="scenebuilder logo" title="SceneBuilder" />
+    <img width="12" />
+    <img src="https://miro.medium.com/v2/resize:fit:2400/1*FjQRrEHqA6eSGSrfxae5jA.png" height="40" alt="signavio logo" title="Signavio" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" title="Google Cloud Platform" />
   </div>
