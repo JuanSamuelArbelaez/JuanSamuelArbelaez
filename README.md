@@ -19,8 +19,8 @@
     <h5 align="left">Website: https://www.uniquindio.edu.co/</h5>
   </div>
   <div> 
-    <h3 align="left">BACHELOR ON INFORMATIK- Technische Hochschule Köln</h3>
-    <h6 align="left">01/09/2024 – CURRENT Gummersbach, Alemania</h6>
+    <h3 align="left">International Exchange on INFORMATIK - Technische Hochschule Köln</h3>
+    <h6 align="left">01/09/2024 – 29/08/2025 Gummersbach, Germany</h6>
     <h5 align="left">Website: th-koeln.de</h5>
   </div>
   <div> 
@@ -31,15 +31,15 @@
 </div>
 
 <hr/>
-<!--
 <div>
   <h2 align="left">My Stats</h2>
   <div align="center">
+    <!--
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSamuelArbelaez&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=8&theme=catppuccin_mocha&hide_border=false" alt="languages graph"  />
+    -->
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanArbelaez&layout=compact&card_width=500&theme=catppuccin_mocha&hide_border=false&langs_count=10">
   </div>
 </div>
--->
 <div>
   <h3 align="left">My Languages</h3>
   <div align="left">
